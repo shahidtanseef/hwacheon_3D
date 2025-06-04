@@ -1,0 +1,9 @@
+# Ignore all folders
+*/
+
+# Allow this specific folder and its contents
+!manijaCavity/
+!manijaCavity/**
+
+# Allow all files (not inside ignored folders)
+!*
